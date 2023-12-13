@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: rocks0304/hello:23
+        image: rocks0304/hello:24
         ports:
         - containerPort: 8081
